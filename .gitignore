@@ -16,6 +16,12 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Temp/
+*.bakert
+*.bin
+*.bakert
+*.log
+*.info
 
 # =========================
 # Operating System Files
