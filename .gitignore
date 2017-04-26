@@ -23,6 +23,7 @@ Library/metadata/
 *.bakert
 *.log
 *.info
+*.meta
 
 # =========================
 # Operating System Files
